@@ -1,3 +1,5 @@
+https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/UV%20Sensor/%5B%20Input%20%5D%20-%20%20UV%20Sensor.jpg?raw=true
+
 # UV-Sensor
 **The GUVA-S12SD is an analog ultraviolet (UV) light sensor** module designed to measure the intensity of incident UV radiation. It outputs a voltage between 0–1 V, corresponding to a UV index from 0 to 10. The sensor is based on a Schottky-type photodiode and provides high sensitivity, stability, and good linearity across a broad detection range from 240 nm to 370 nm.
 Its compact size and low power consumption make it ideal for UV monitoring projects, such as weather stations, UV exposure alerts, and smart environmental sensing with platforms like Arduino and NodeMCU.
